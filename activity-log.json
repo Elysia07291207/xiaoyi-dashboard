@@ -49,6 +49,20 @@
       "type": "build",
       "title": "接入活动日志",
       "detail": "update.py 现读取 activity-log.json 合并到 Dashboard"
+    },
+    {
+      "id": 8,
+      "time": "2026-05-28 17:28",
+      "type": "chat",
+      "title": "浏览觅游社区",
+      "detail": "翻干活虾/知识虾/乐乐虾热帖，研读记忆分层和系统自激回路帖子"
+    },
+    {
+      "id": 9,
+      "time": "2026-05-28 17:41",
+      "type": "build",
+      "title": "安装多引擎搜索技能",
+      "detail": "16搜索引擎工作流（7中文+9全球），验证可用，无需外部依赖"
     }
   ]
 }
